@@ -796,7 +796,7 @@ body.modal-open-custom{overflow:hidden!important}
                     rgba(8, 6, 4, 0.25) 70%,
                     rgba(8, 6, 4, 0.75) 100%
                 ),
-                url("images/image.png");
+                url("image.png");
 
             background-size: cover;
             background-position: center;
